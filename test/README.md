@@ -1,19 +1,6 @@
-<img src="./imgs/glucolynx-logo-hor.png" alt="glucolynx logo" title="TESTful API" align="right" height="120" />
-<br>
-<br>
-<br>
-
-
-# Glucolynx-App
-
-Glucolynx app is a simple blood glucose monitoring application by using Near-Infrared Spectroscopy (NIRS). Machine Learning algorithms in MATLAB are used to predict blood glucose level.
-NIR data are generated as *.csv* files by **DLP® NIRscan™ Nano Evaluation Module** from **Texas Instruments** from scanning fingertips. By default, this code will extract the absorbance data from .csv file.  
-![](imgs/run-app.gif)
-
-
 
 ## Getting Started
-
+###Reference - theinhtut
 MATLAB *(above R2016a)* must be installed on local machine.
 
 ### Installation
