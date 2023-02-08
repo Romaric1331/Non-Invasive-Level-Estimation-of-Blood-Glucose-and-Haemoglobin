@@ -1,6 +1,5 @@
 
-## Getting Started
-###Reference - theinhtut
+## Reference - theinhtut
 MATLAB *(above R2016a)* must be installed on local machine.
 
 ### Installation
