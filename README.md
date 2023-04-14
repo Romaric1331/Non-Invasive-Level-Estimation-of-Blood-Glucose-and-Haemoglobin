@@ -1,6 +1,8 @@
 # Non-Invasive-Level-Estimation-of-Blood-Glucose-and-Haemoglobin
 
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3153639b86d45365c3bac5df1fe357057555be7d/)][def]
 
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:3153639b86d45365c3bac5df1fe357057555be7d/)](https://archive.softwareheritage.org/swh:1:dir:3153639b86d45365c3bac5df1fe357057555be7d;origin=https://github.com/Romaric1331/Non-Invasive-Level-Estimation-of-Blood-Glucose-and-Haemoglobin;visit=swh:1:snp:5c39d91fc3e28e4acd09d3893281b3e6b2fc6c31;anchor=swh:1:rev:3d9e5c7cd0d9cf960307a7815d4481525890734c)
 ## Collaborators
 - Divakaran D
 - Romaric Sallustre
@@ -19,3 +21,6 @@ Index Terms — Non-Invasive Method, Blood Hemoglobin, Near-infrared (NIR) spect
 
 ## License
 This project is under <a href="https://github.com/Romaric1331/Non-Invasive-Level-Estimation-of-Blood-Glucose-and-Haemoglobin/blob/main/LICENSE">MIT</a> licence.
+
+[def]: https://archive.softwareheritage.org/swh:1:dir:3153639b86d45365c3bac5df1fe357057555be7d;origin=https://github.com/Romaric1331/Non-Invasive-Level-Estimation-of-Blood-Glucose-and-Haemoglobin;visit=swh:1:snp:5c39d91fc3e28e4acd09d3893281b3e6b2fc6c31;anchor=swh:1:rev:3d9e5c7cd0d9cf960307a7815d4481525890734c
+[def2]: https://archive.softwareheritage.org/swh:1:dir:3153639b86d45365c3bac5df1fe357057555be7d;origin=https://github.com/Romaric1331/Non-Invasive-Level-Estimation-of-Blood-Glucose-and-Haemoglobin;visit=swh:1:snp:5c39d91fc3e28e4acd09d3893281b3e6b2fc6c31;anchor=swh:1:rev:3d9e5c7cd0d9cf960307a7815d4481525890734c
